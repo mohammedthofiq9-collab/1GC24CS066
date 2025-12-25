@@ -16,8 +16,5 @@ My date of joining to GCE: 25 sept-2024
 =======
 
 >>>>>>> b4f26fe (Removed Email successfully from README.md file)
-=======
-
->>>>>>> b4f26fe (Removed Email successfully from README.md file)
 
 
