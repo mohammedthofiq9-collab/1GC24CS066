@@ -6,7 +6,3 @@ section: A
 Branch: Computer science and engineering
 Year of Admission: 2024
 college name: GCE
-SSLC: GHSKEN
-PUC: sheshadripuram independent pu college
-UG degree: Computer science and engineering
-
