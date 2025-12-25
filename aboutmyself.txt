@@ -1,0 +1,8 @@
+Title: Mr.
+Full Name: Mohammed Thofiq
+USN: 1gc24cs066
+semester: Third
+section: A
+Branch: Computer science and engineering
+Year of Admission: 2024
+college name: GCE
